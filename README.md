@@ -1,57 +1,38 @@
-# 👋 Hi, I'm Juan Carlos Palacios
+# ⚡ Hi, I'm Juan Carlos Palacios — I build SaaS that runs real businesses
 
-## 🚀 Software Engineer | Full Stack Developer
+### 🚀 Founder @ Quantix Code · Laravel & PHP Engineer · Open to Remote Work
 
-I am a **Software Engineer** focused on building efficient, scalable, and business-oriented solutions. I enjoy designing systems that solve real-world problems, optimizing processes, and continuously learning new technologies.
-
----
-
-## 🧠 About Me
-
-* 💻 Web application and enterprise system development
-* 🛠️ Strong interest in **software architecture**, **databases**, and **SaaS platforms**
-* 📈 Focused on secure, maintainable, and high-quality solutions
-* 🤝 Team player with strong communication skills
+I design and ship **multi-tenant SaaS platforms end-to-end** — architecture, backend, frontend, and deployment — for real operational businesses, not demos: hospitals, clinics and repair shops run on software I've built.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧬 Tech Stack
 
-**Languages**
-
-* JavaScript / TypeScript
-* Python
-* PHP
-* SQL
-
-**Frameworks & Libraries**
-
-* React
-* Node.js
-* Express
-* Laravel
-
-**Databases**
-
-* MySQL
-* PostgreSQL
-* MongoDB
-
-**DevOps & Tools**
-
-* Git & GitHub
-* Docker
-* Linux
-* VS Code
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📫 Contact
+## 🚀 Flagship Projects
 
-* 📧 Email: [juancarlosneil@gmail.com](mailto:juancarlosneil@gmail.com)
-* 💼 LinkedIn: *www.linkedin.com/in/juan-carlos-neíl-palacios-escobar-9ba8311b7*
-* 🌐 Portfolio: *Coming soon*
+### 🏥 Clinix
+Multi-tenant SaaS platform for **hospitals & clinics**: lab management, emergency room, operating room, specialty-based medical records, and a full accounting module.
+
+### 🔧 Movix
+Multi-tenant SaaS for **repair shop management** — from intake to invoicing.
 
 ---
 
-⭐ *Always open to learning, collaboration, and professional growth.*
+## 🌍 Open to Remote Opportunities
+
+I'm actively looking for remote roles as a Full-Stack / Laravel developer.
+
+📧 juancarlosneil@gmail.com
+💼 LinkedIn: www.linkedin.com/in/juan-carlos-neíl-palacios-escobar-9ba8311b7
+🏢 Quantix Code
+
+⭐ Always open to learning, collaboration, and professional growth.
